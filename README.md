@@ -29,9 +29,9 @@
 
 | Description | Colour Code |
 | --- | --- |
-| Primary colour (website) | 6a09b5 |
-| Accent colour (website) | 8b1ae3 |
-| Logo colour | 8b1ae3 |
+| Primary colour (website) | 0f5ea1 |
+| Accent colour (website) | 2980b9 |
+| Logo colour | 105fa2 |
 
 <h2>Shields</h2>
 
