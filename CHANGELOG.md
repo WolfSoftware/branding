@@ -7,7 +7,9 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 ### [Unreleased](https://github.com/WolfSoftware/branding/compare/v1.0.0...HEAD)
 
-- Use new TravisToolbox scripts [`[head]`](https://github.com/WolfSoftware/branding/commit/)
+- Additional linting [`[head]`](https://github.com/WolfSoftware/branding/commit/)
+
+- Use new TravisToolbox scripts [`[f096b0a]`](https://github.com/WolfSoftware/branding/commit/f096b0a5a3b173ce0fa94ac4c7590de30f8a8438)
 
 - Add new branding images fot github orgs and child repos [`[7eca1ce]`](https://github.com/WolfSoftware/branding/commit/7eca1ce4f6134811230df1ca762a3e0541ed5714)
 
