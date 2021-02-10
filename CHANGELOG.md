@@ -7,7 +7,9 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 ### [Unreleased](https://github.com/WolfSoftware/branding/compare/v1.0.0...HEAD)
 
-- Add new branding images fot github orgs and child repos [`[head]`](https://github.com/WolfSoftware/branding/commit/)
+- Use new TravisToolbox scripts [`[head]`](https://github.com/WolfSoftware/branding/commit/)
+
+- Add new branding images fot github orgs and child repos [`[7eca1ce]`](https://github.com/WolfSoftware/branding/commit/7eca1ce4f6134811230df1ca762a3e0541ed5714)
 
 - Remove dump file [`[212a756]`](https://github.com/WolfSoftware/branding/commit/212a756f0b574c483e80a9ce4576c29b774f3a78)
 

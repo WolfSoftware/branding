@@ -8,11 +8,11 @@ matrix:
     - EXCLUDE_FILES="CHANGELOG.md"
     before_install:
     - mkdir travis
-    - git clone https://github.com/TravisToolbox/awesomebot-travis.git travis/awesomebot
+    - git clone https://github.com/TravisToolbox/awesomebot.git
     install:
-    - "./travis/awesomebot/install.sh"
+    - "./awesomebot/install.sh"
     script:
-    - "./travis/awesomebot/scan.sh"
+    - "./awesomebot/scan.sh"
 notifications:
   email: false
   slack:
