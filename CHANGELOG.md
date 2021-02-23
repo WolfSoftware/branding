@@ -7,7 +7,9 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 ### [Unreleased](https://github.com/WolfSoftware/branding/compare/v1.0.0...HEAD)
 
-- New branding for orgs in GitHub [`[head]`](https://github.com/WolfSoftware/branding/commit/)
+- Remove the tag line from the logo [`[head]`](https://github.com/WolfSoftware/branding/commit/)
+
+- New branding for orgs in GitHub [`[229042d]`](https://github.com/WolfSoftware/branding/commit/229042d9bd67cd7fce9b1e9cb4991024ca3cd663)
 
 - Additional linting [`[f32259c]`](https://github.com/WolfSoftware/branding/commit/f32259cd5d50686ec5b05122f19d0bd65a8f57dc)
 
