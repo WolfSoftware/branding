@@ -7,7 +7,9 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 ### [Unreleased](https://github.com/WolfSoftware/branding/compare/v1.0.0...HEAD)
 
-- Remove the tag line from the logo [`[head]`](https://github.com/WolfSoftware/branding/commit/)
+- Move images to CDN [`[head]`](https://github.com/WolfSoftware/branding/commit/)
+
+- Remove the tag line from the logo [`[f4a0b9f]`](https://github.com/WolfSoftware/branding/commit/f4a0b9f7b376b86021a3bcc8d155451a604783b2)
 
 - New branding for orgs in GitHub [`[229042d]`](https://github.com/WolfSoftware/branding/commit/229042d9bd67cd7fce9b1e9cb4991024ca3cd663)
 
